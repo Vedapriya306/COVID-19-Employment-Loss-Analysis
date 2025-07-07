@@ -13,7 +13,7 @@ The analysis uses publicly available data from national COVID-19 rapid response 
 ---
 
 ## 📊 View the Dashboard
-[(https://public.tableau.com/views/COVID-19JobLossTrends/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+[COVID 19-Job Loss(https://public.tableau.com/views/COVID-19JobLossTrends/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 
 
@@ -41,5 +41,4 @@ People with **asthma, diabetes, and hypertension** showed increasing representat
 
 ---
 
-## 📂 Repository Structure
 
