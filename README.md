@@ -15,8 +15,6 @@ The analysis uses publicly available data from national COVID-19 rapid response 
 ## 📊 View the Dashboard
 [COVID 19-Job Loss](https://public.tableau.com/views/COVID-19JobLossTrends/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[HRSA UDS Tableau Dashboard](https://public.tableau.com/views/FederallyQualifiedHealthClinicsPerformance/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
 ---
 
 ## 📌 Key Components
